@@ -1,0 +1,17 @@
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\net6.0\ConsoleAppThreads.exe
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\net6.0\ConsoleAppThreads.deps.json
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\net6.0\ConsoleAppThreads.runtimeconfig.json
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\net6.0\ConsoleAppThreads.dll
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\net6.0\ConsoleAppThreads.pdb
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.csproj.AssemblyReference.cache
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.AssemblyInfoInputs.cache
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.AssemblyInfo.cs
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.csproj.CoreCompileInputs.cache
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.csproj.CopyComplete
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.dll
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\refint\ConsoleAppThreads.dll
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.pdb
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ConsoleAppThreads.genruntimeconfig.cache
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\net6.0\ref\ConsoleAppThreads.dll
+C:\Users\yaver\source\repos\DD-3\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\net6.0\ClassLibrary1.pdb
